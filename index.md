@@ -1,5 +1,4 @@
 ---
-title: Vancouver iOS School
 layout: default
 ---
 
