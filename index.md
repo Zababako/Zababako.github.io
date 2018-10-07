@@ -1,6 +1,6 @@
 ---
 title: Vancouver iOS School
-layout: post
+layout: default
 ---
 
 # Vancouver iOS School
