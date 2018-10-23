@@ -1,9 +1,6 @@
 ---
-title: Vancouver iOS School
-layout: default
+title: Zababako Studio Inc.
+layout: home
 ---
 
-# Vancouver iOS School
-[Test post](post1.md)
-## What to do
-## What not to do
+

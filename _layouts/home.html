@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div>
+
+  {{ content }}
+
+  <h2>Ments</h2>
+
+  <div>&nbsp;</div>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+
+        <span><a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a></span>
+
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

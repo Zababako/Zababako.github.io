@@ -1,3 +1,11 @@
-name: Vancouver iOS School
+title: Writing software for joy
+description: Zababako Studio Inc.
+
+show_downloads: false
+google_analytics: UA-127940472-1
+
+email: hello@zababako.com
+url: https://www.zababako.com
+
 markdown: kramdown
 theme: jekyll-theme-cayman
